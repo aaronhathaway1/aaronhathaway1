@@ -28,4 +28,3 @@ These are the skills I've been working. I make it a point to revisit and update 
 - TS
 - SEO
 - R
--
