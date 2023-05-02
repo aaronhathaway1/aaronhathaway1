@@ -19,12 +19,22 @@ I graduated from BYU — Idaho in April 2023. I earned a Bachelor's of Science, 
 
 These are the skills I've been working. I make it a point to revisit and update them from the foundational ones such as HTML and CSS all the way to more advanced ones like rxJS. I also enjoy helping small businesses succeed by utilizing my data science skills and SEO.
 
-- Git
-- Webpack
-- MongoDb
-- Angular
-- Node.js
-- JS
-- TS
-- SEO
-- R
+•	HTML, CSS/SASS
+•	JavaScript
+•	Angular
+•	Git & Github
+•	Ionic
+•	Node.js
+•	NetSuite
+•	C#
+•	SQL
+•	R
+•	Python
+•	SEO
+•	RESTful API
+•	MongoDB
+•	TypeScript
+•	NetSuite/SuiteScript (JS) 
+•	Microsoft Office
+•	Azure DevOps
+ 
