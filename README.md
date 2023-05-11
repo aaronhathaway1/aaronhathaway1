@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I graduated from BYU — Idaho in April 2023. I earned a Bachelor's of Science, majoring in Web Design and Development. I love to work on full-stack project and I have worked primarily in Angular and Node.js. I have developed and designed websites, web apps, and mobile apps.
 
-These are the skills I've been working. I make it a point to revisit and update them from the foundational ones such as HTML and CSS all the way to more advanced ones like rxJS. I also enjoy helping small businesses succeed by utilizing my data science skills and SEO.
+Below are the skills I've been working. I make it a point to revisit and continue to improve them them from the foundational ones such as HTML and CSS all the way to more advanced ones like rxJS. I also enjoy helping small businesses succeed by utilizing my data science skills and SEO.
 
 •	HTML, CSS/SASS
 •	JavaScript
