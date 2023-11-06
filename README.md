@@ -21,7 +21,7 @@ Below are the skills I've been working. I make it a point to revisit and continu
 
 •	HTML, CSS/SASS
 •	JavaScript
-•	Angular
+•	React
 •	Git & Github
 •	Ionic
 •	Node.js
